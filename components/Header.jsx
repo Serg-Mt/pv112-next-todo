@@ -5,6 +5,8 @@ const pages = [
   { href: '/', name: 'Home' },
   { href: '/todo', name: 'To Do' },
   { href: '/todo2', name: 'To Do2' },
+  { href: '/todo3', name: 'To Do3' },
+  
 ];
 
 
