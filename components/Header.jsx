@@ -4,6 +4,7 @@ import styles from './Header.module.css';
 const pages = [
   { href: '/', name: 'Home' },
   { href: '/todo', name: 'To Do' },
+  { href: '/todo2', name: 'To Do2' },
 ];
 
 
